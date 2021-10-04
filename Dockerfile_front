@@ -1,0 +1,11 @@
+FROM node:alpine
+
+EXPOSE 3000
+
+WORKDIR /app
+
+COPY /SpaceAppsSunshine/package.json /SpaceAppsSunshine/package-lock.json ./
+
+COPY /SpaceAppsSunshine ./
+
+RUN npm install
