@@ -2,7 +2,7 @@
 
 ## 🌞️ You are my Sunshine [Challenge](https://2021.spaceappschallenge.org/challenges/statements/you-are-my-sunshine/details)
 
-**Backend API made with Django, Docker and Docker-compose.**
+**Application made with React, chartJS, Django, Docker and Docker-compose.**
 
 It's an open source application to access the information on NASA’s Prediction of Worldwide renewable Energy Resources (POWER) web services portal and provide useful information about sunshine to the general public.
 
